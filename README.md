@@ -114,8 +114,8 @@ If you appreciate this repository and want to show your support, you can do so t
 | **[Hard CTF](#hard-ctf)**                        |     42       |                             |
 | **[Insane CTF](#insane-ctf)**                    |      1       |             1               |
 | **[Misc](#misc)**                                |     43       |                             |
-| **[Special Events](#special-events)**            |     11       |             1               |
-| **Total Rooms:**                                 |    **= 502** |          **= 50**           |
+| **[Special Events](#special-events)**            |     12       |             1               |
+| **Total Rooms:**                                 |    **= 503** |          **= 50**           |
 
 ---
 
@@ -134,6 +134,43 @@ Here are a few other labs you could consider adding:
 9. **Cloud Security** ☁️: Add rooms related to AWS, Azure, or GCP security.
 
 ---
+
+## 🌟 **Contribute and Expand the Arsenal!** 🌟
+
+Hey, fellow hackers! 🕵️‍♂️
+
+This repository is a growing treasure trove of **500+ Free TryHackMe Rooms**, but we know there are countless more amazing labs out there waiting to be discovered. That's where **you** come in! 🚀  
+
+If you know of **free TryHackMe labs** that aren’t included in this list, we’d love for you to contribute and help us grow this project into the ultimate **TryHackMe learning resource**. 💡  
+
+### 🛠️ **How to Contribute**
+1. **Fork** this repository and clone it locally.  
+2. Add your rooms to the relevant section in the `README.md` file. Don’t forget to **number the new additions** to maintain the count!  
+3. Open a **Pull Request (PR)** with your changes.  
+4. Sit back and enjoy the satisfaction of helping a global community of learners. 🎉  
+
+
+### ⚠️ **Contribution Guidelines**
+- Ensure the lab links are **free-to-access** on TryHackMe.  
+- Add the lab’s **name** and a **brief description** to provide context.  
+- Double-check that you’re not duplicating any existing entries.  
+
+Your contributions will not only help beginners and experienced hackers alike but also foster a collaborative spirit in the community. Let’s work together to create a comprehensive, free, and accessible learning resource for cybersecurity enthusiasts worldwide. 🌍🔐  
+
+
+### 🏆 **Your Impact**
+By contributing:
+- You’re helping learners **discover new challenges** and **expand their skills.**  
+- You’ll earn credit as a valued contributor to this project. 🌟  
+- You’ll be making the cybersecurity community stronger and more inclusive.  
+
+So, what are you waiting for? Let’s grow this collection together, one lab at a time. 💻✨
+
+--- 
+
+**🌐 Let’s build the ultimate TryHackMe lab directory, one PR at a time! 🔗 [Make your contribution now.](https://github.com/Hunterdii/tryhackme-free-rooms/pulls)**
+
+
 
 ## Intro Rooms
 
@@ -1192,6 +1229,8 @@ Here are a few other labs you could consider adding:
 - [ ] [🕵️ TryHackMe | Advent of Cyber 2022](https://tryhackme.com/room/adventofcyber4)
 
 - [x] [🕵️ TryHackMe | Advent of Cyber 2023](https://tryhackme.com/room/adventofcyber2023)
+
+- [ ] [🕵️ TryHackMe | Advent of Cyber 2024](https://tryhackme.com/room/adventofcyber2024)
 
 - [ ] [🕵️ TryHackMe | Advent of Cyber '23 Side Quest](https://tryhackme.com/room/adventofcyber23sidequest)
 
