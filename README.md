@@ -1,7 +1,5 @@
 <div align="center">
 
-<a href="https://buymeacoffee.com/het81857">
-
   <img width="1536" height="1024" alt="TryHackMe-Roadmap" src="https://github.com/user-attachments/assets/4ba3d109-11ff-4a73-8b29-3866890699c4" />
 
 </a>
