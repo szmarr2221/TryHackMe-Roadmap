@@ -103,7 +103,7 @@ If you appreciate this repository and want to show your support, you can do so t
 | **[Android](#android)**                          |      1       |                             |
 | **[Forensics](#forensics)**                      |     17       |                             |
 | **[Wifi Hacking](#wi-fi-hacking)**               |      1       |            1                |
-| **[Reverse Engineering](#reverse-engineering)**  |     10       |                             |
+| **[Reverse Engineering](#reverse-engineering)**  |     9       |                             |
 | **[Malware Analysis](#malware-analysis)**        |      8       |                             |
 | **[Privilege Escalation](#privesc)**             |     13       |            1               |
 | **[Windows](#windows)**                          |      9       |            1                |
@@ -116,7 +116,7 @@ If you appreciate this repository and want to show your support, you can do so t
 | **[Insane CTF](#insane-ctf)**                    |      1       |             1               |
 | **[Misc](#misc)**                                |     43       |                             |
 | **[Special Events](#special-events)**            |     12       |             1               |
-| **Total Rooms:**                                 |    **= 503** |          **= 50**           |
+| **Total Rooms:**                                 |    **= 502** |          **= 50**           |
 
 ---
 
@@ -515,13 +515,11 @@ So, what are you waiting for? Let’s grow this collection together, one lab at 
 
 ## Reverse Engineering
 
-- [ ] [🕵️ TryHackMe | Intro to x86-64](https://tryhackme.com/room/introtox8664)
-
 - [ ] [🕵️ TryHackMe | Windows x64 Assembly](https://tryhackme.com/room/win64assembly)
 
-- [ ] [🕵️ TryHackMe | Reverse Engineering](https://tryhackme.com/room/reverseengineering)
-
 - [ ] [🕵️ TryHackMe | Reversing ELF](https://tryhackme.com/room/reverselfiles)
+
+- [ ] [🕵️ TryHackMe | Windows Reversing Intro](https://tryhackme.com/room/windowsreversingintro) 
 
 - [ ] [🕵️ TryHackMe | JVM Reverse Engineering](https://tryhackme.com/room/jvmreverseengineering)
 
