@@ -19,34 +19,6 @@
   <img src="https://img.shields.io/badge/Owner-%40Huntedii-<COLOR>.svg" alt="Owner Badge"/>
 </p> 
 
-# Github Stats:
-
-<div align = "center">
-
-<table align="center">
-    <thead align="center">
-        <tr border: 1px;>
-            <td><b>🌟 Stars</b></td>
-            <td><b>🍴 Forks</b></td>
-            <td><b>🐛 Issues</b></td>
-            <td><b>📏 Repo Size</b></td>
-            <td><b>🔔 Open PRs</b></td>
-            <td><b>🔕 Close PRs</b></td>
-        </tr>
-     </thead>
-    <tbody>
-         <tr>
-            <td><img alt="Stars" src="https://img.shields.io/github/stars/Hunterdii/tryhackme-free-rooms?style=flat&logo=github"/></td>
-             <td><img alt="Forks" src="https://img.shields.io/github/forks/Hunterdii/tryhackme-free-rooms?style=flat&logo=github"/></td>
-            <td><img alt="Issues" src="https://img.shields.io/github/issues/Hunterdii/tryhackme-free-rooms?style=flat&logo=github"/></td>
-            <td><img alt="Repo Size" src="https://img.shields.io/github/repo-size/Hunterdii/tryhackme-free-rooms?style=flat&logo=github"/></td>
-            <td><img alt="Open Pull Requests" src="https://img.shields.io/github/issues-pr/Hunterdii/tryhackme-free-rooms?style=flat&logo=github"/></td>
-           <td><img alt="Close Pull Requests" src="https://img.shields.io/github/issues-pr-closed/Hunterdii/tryhackme-free-rooms?style=flat&color=critical&logo=github"/></td>
-        </tr>
-    </tbody>
-</table>
-</div>
-
 ### Welcome, Hackers! 👾
 
 Here’s a curated list of **500+ Free TryHackMe rooms** to help you dive into cybersecurity and hacking. These rooms are organized by topic so you can learn and practice systematically. Best part? **They’re all free!** 🧑‍💻🔓  
@@ -55,123 +27,40 @@ _**Start hacking now, and happy hunting!** 🏹_
 
 Ready to start hacking? **Let’s go!** 💥
 
----
-
-## 🛡️ Maintainer  
-
-> **_This repository is maintained by [Hunterdii](https://github.com/Hunterdii)._**  
-> Have suggestions? Feel free to reach out to [me via email](mailto:het8185@gmail.com). 📧
-
----
-
-## 📰 News  
-**Practice, practice, practice!** Keep working hard, and it will all fall into place. No shortcuts in hacking! 🛠️  
-> Stay curious and keep learning. 🚀
-
----
-
-## 💖 **How You Can Support**
-
-If you appreciate this repository and want to show your support, you can do so through these platforms:
-
-| ❤️ **Platform**        | 🌟 **Support Link**                                                                                                                                        |
-|------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| **GitHub Sponsors**    | [![GitHub Sponsors](https://img.shields.io/badge/GitHub-Sponsor-red?style=flat-square&logo=github)](https://github.com/sponsors/Hunterdii)                  |
-| **Buy Me a Coffee**    | [![Buy Me a Coffee](https://img.shields.io/badge/☕-Buy%20Me%20a%20Coffee-orange?style=flat-square)](https://www.buymeacoffee.com/het81857)                 |
-| **Thanks.dev**         | [![Thanks.dev](https://img.shields.io/badge/💜-Thanks.dev-purple?style=flat-square)](https://thanks.dev/Hunterdii)                                          |
-
-**Thank you for your support! Every bit helps keep this repository going.** 🌈✨
-
----
-
 ## 📜 **Table of Contents**
 
 | 🔐 **Category**                                  | 🔢 **Rooms** | 🔒 **Rooms Completed by Me** |
 | ------------------------------------------------ |:------------:|:---------------------------:|
-| **[Introductory Rooms](#intro-rooms)**           |     21       |            9                |
-| **[Linux Fundamentals](#linux-fundamentals)**    |      4       |            3                |
+| **[Introductory Rooms](#intro-rooms)**           |     21       |                            |
+| **[Linux Fundamentals](#linux-fundamentals)**    |      4       |                            |
 | **[Windows Fundamentals](#windows-fundamentals)**|      3       |                             |
-| **[Basic Rooms](#basics-rooms)**                 |     14       |            1                |
-| **[Reconnaissance](#recon)**                     |     10       |            2                |
+| **[Basic Rooms](#basics-rooms)**                 |     14       |                            |
+| **[Reconnaissance](#recon)**                     |     10       |                            |
 | **[Scripting](#scripting)**                      |      7       |                             |
-| **[Networking](#networking)**                    |      7       |            5                |
-| **[Tooling](#tooling)**                          |     18       |            3                |
+| **[Networking](#networking)**                    |      7       |                            |
+| **[Tooling](#tooling)**                          |     18       |                            |
 | **[Container Security](#container-security)**    |     3        |                              |
-| **[Cryptography & Hashes](#cryptography--hashes)**|      7       |            2                |
+| **[Cryptography & Hashes](#cryptography--hashes)**|      7       |                            |
 | **[Steganography](#steganography)**              |      6       |                             |
-| **[Web](#web)**                                  |     33       |            5                |
+| **[Web](#web)**                                  |     33       |                            |
 | **[Android](#android)**                          |      1       |                             |
 | **[Forensics](#forensics)**                      |     17       |                             |
-| **[Wifi Hacking](#wi-fi-hacking)**               |      1       |            1                |
+| **[Wifi Hacking](#wi-fi-hacking)**               |      1       |                            |
 | **[Reverse Engineering](#reverse-engineering)**  |     9       |                             |
 | **[Malware Analysis](#malware-analysis)**        |      8       |                             |
-| **[Privilege Escalation](#privesc)**             |     13       |            1               |
-| **[Windows](#windows)**                          |      9       |            1                |
+| **[Privilege Escalation](#privesc)**             |     13       |                           |
+| **[Windows](#windows)**                          |      9       |                          |
 | **[Active Directory](#active-directory)**        |      8       |                             |
 | **[PCAP Analysis](#pcap-analysis)**              |      4       |                             |
 | **[Buffer Overflow](#bufferoverflow)**           |      4       |                             |
-| **[Easy CTF](#easy-ctf)**                        |     98       |            11               |
-| **[Medium CTF](#medium-ctf)**                    |     99       |             4               |
+| **[Easy CTF](#easy-ctf)**                        |     98       |                           |
+| **[Medium CTF](#medium-ctf)**                    |     99       |                            |
 | **[Hard CTF](#hard-ctf)**                        |     42       |                             |
-| **[Insane CTF](#insane-ctf)**                    |      1       |             1               |
+| **[Insane CTF](#insane-ctf)**                    |      1       |                            |
 | **[Misc](#misc)**                                |     43       |                             |
-| **[Special Events](#special-events)**            |     12       |             1               |
-| **Total Rooms:**                                 |    **= 502** |          **= 50**           |
-
----
-
-## 🌟 Additional Suggestions for Labs
-
-Here are a few other labs you could consider adding:
-
-1. **Introductory Rooms** 🧑‍💻: Perfect for beginners just starting out on TryHackMe.
-2. **Linux Fundamentals** 🐧: Learn Linux, a critical skill for hacking.
-3. **Privilege Escalation** 📈: Explore how to elevate permissions for better control in systems.
-4. **Malware Analysis** 🦠: Investigate and reverse-engineer malicious code.
-5. **Web Hacking** 🌐: Master web vulnerabilities and exploit them like a pro.
-6. **OSINT (Open Source Intelligence)** 🕵️‍♂️: Dive into gathering intelligence from publicly available sources.
-7. **Social Engineering** 🧠: Practice rooms focusing on human-based hacking techniques like phishing.
-8. **Exploit Development** 💻: Learn how to create and modify exploits.
-9. **Cloud Security** ☁️: Add rooms related to AWS, Azure, or GCP security.
-
----
-
-## 🌟 **Contribute and Expand the Arsenal!** 🌟
-
-Hey, fellow hackers! 🕵️‍♂️
-
-This repository is a growing treasure trove of **500+ Free TryHackMe Rooms**, but we know there are countless more amazing labs out there waiting to be discovered. That's where **you** come in! 🚀  
-
-If you know of **free TryHackMe labs** that aren’t included in this list, we’d love for you to contribute and help us grow this project into the ultimate **TryHackMe learning resource**. 💡  
-
-### 🛠️ **How to Contribute**
-1. **Fork** this repository and clone it locally.  
-2. Add your rooms to the relevant section in the `README.md` file. Don’t forget to **number the new additions** to maintain the count!  
-3. Open a **Pull Request (PR)** with your changes.  
-4. Sit back and enjoy the satisfaction of helping a global community of learners. 🎉  
-
-
-### ⚠️ **Contribution Guidelines**
-- Ensure the lab links are **free-to-access** on TryHackMe.  
-- Add the lab’s **name** and a **brief description** to provide context.  
-- Double-check that you’re not duplicating any existing entries.  
-
-Your contributions will not only help beginners and experienced hackers alike but also foster a collaborative spirit in the community. Let’s work together to create a comprehensive, free, and accessible learning resource for cybersecurity enthusiasts worldwide. 🌍🔐  
-
-
-### 🏆 **Your Impact**
-By contributing:
-- You’re helping learners **discover new challenges** and **expand their skills.**  
-- You’ll earn credit as a valued contributor to this project. 🌟  
-- You’ll be making the cybersecurity community stronger and more inclusive.  
-
-So, what are you waiting for? Let’s grow this collection together, one lab at a time. 💻✨
-
---- 
-
-**🌐 Let’s build the ultimate TryHackMe lab directory, one PR at a time! 🔗 [Make your contribution now.](https://github.com/Hunterdii/tryhackme-free-rooms/pulls)**
-
-
+| **[Special Events](#special-events)**            |     12       |                            |
+| **Total Rooms:**                                 |    **= 502** |                     |
+   
 
 ## Intro Rooms
 
