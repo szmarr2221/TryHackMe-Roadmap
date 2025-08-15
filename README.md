@@ -1,12 +1,3 @@
-<div align="center">
-
-  <img width="1536" height="1024" alt="TryHackMe-Roadmap" src="https://github.com/user-attachments/assets/4ba3d109-11ff-4a73-8b29-3866890699c4" />
-
-</a>
-
-</div>
-
-
 # 🚀 500+ Free TryHackMe Rooms (_Cost: 💸$0.00!_) 🛡️
 
 <p align="center">
